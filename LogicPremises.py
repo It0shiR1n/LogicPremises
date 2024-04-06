@@ -45,9 +45,13 @@ LucasTecnico = False
 
 
 if FranciscoAdvogado == True and IgorJornalista == False:
+    
     if FranciscoAdvogado == True and GersonAnalista == False:
+
         if GersonAnalista == False and HugoEngenheiro == True:
+
             if JoelAssistente == False and HugoNaoEngenheiro == False:
+
                 if LucasTecnico == False and JoelAssistente == False:
                     print("Franciso é Advogado")
                     print("Igor não é Jornalista")
